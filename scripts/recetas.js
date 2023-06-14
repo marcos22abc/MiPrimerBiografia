@@ -6,7 +6,7 @@ let texto0 = `
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img id="imagen" src="../img/paella.jpg" alt="">
+            <img id="imagen" src="../img/paella.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-md">
             <h2>Ingredientes</h2>
@@ -40,7 +40,7 @@ let texto1 = `
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img id="imagen" src="../img/taquitos.jpg" alt="">
+            <img id="imagen" src="../img/taquitos.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-md">
             <h2>Ingredientes</h2>
@@ -93,7 +93,7 @@ let texto2 = `
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img id="imagen" src="../img/lasania.jpg" alt="">
+            <img id="imagen" src="../img/lasania.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-md">
             <h2>Ingredientes</h2>
@@ -146,7 +146,7 @@ let texto3 = `
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img id="imagen" src="../img/guiso.jpg" alt="">
+            <img id="imagen" src="../img/guiso.jpg" class="img-fluid" alt="">
         </div>
     <div class="col-md">
         <h2>Ingredientes</h2>
@@ -186,7 +186,7 @@ let texto4 = `
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img id="imagen" src="../img/pasta.jpg" alt="">
+            <img id="imagen" src="../img/pasta.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-md">
             <h2>Ingredientes</h2>
@@ -218,7 +218,7 @@ let texto5 = `
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img id="imagen" src="../img/tarta.jpg" alt="">
+            <img id="imagen" src="../img/tarta.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-md">
             <h2>Ingredientes</h2>
@@ -253,7 +253,7 @@ let texto6 = `
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img id="imagen" src="../img/canelones.jpg" alt="">
+            <img id="imagen" src="../img/canelones.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-md">
             <h2>Ingredientes</h2>
@@ -304,7 +304,7 @@ let texto7 = `
     </div>
     <div class="row">
         <div class="col-md-6">
-            <img id="imagen" src="../img/solomillo.jpg" alt="">
+            <img id="imagen" src="../img/solomillo.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-md">
             <h2>Ingredientes</h2>
