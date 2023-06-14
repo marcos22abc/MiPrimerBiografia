@@ -1,0 +1,121 @@
+
+body{
+    background-color: rgb(248, 197, 197);
+}
+header {
+    background-color: rgb(221, 191, 182);
+}
+p{
+    font-family: 'Titillium Web', sans-serif;
+}
+main{
+    min-height: 400px;
+}
+a{
+    font-size: x-large;
+}
+a.alto{
+    font-size: small;
+}
+.alturaletranav{
+    font-size: x-large;
+}
+.estilofooter {
+    color: rgb(12, 3, 3);
+    text-align: center;
+ }
+
+.imgAltoAncho{
+    max-width: 200px;
+    max-height: 300px;
+}
+.colorrojo { color: rgb(150, 130, 238)}
+
+.azul{color: blue;}
+
+.backrosa{background-color: pink;}
+
+.tipoYgrosorletra{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.letratitulo{
+    font-family: Brush Script MT;
+    font-size: 500%; 
+}
+
+.alto{
+    min-height:70px;
+}
+
+
+/* tarjeta personalizada */
+
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+    font-size: 100%;
+  }
+
+  /* Add rounded corners to the top left and the top right corner of the image */
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+
+  .pad{
+    padding: 20px;
+  }
+  .padd{
+    padding-right: 30px;
+  }
+
+  /* targetas redondeada*/
+#forma1{
+    padding: 7px;
+    border-radius: 10px;
+    background-color: rgb(198, 198, 198);
+    font-size: 0.8em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: justify;
+    }
+#targeta1{
+    min-height: 250px;
+    padding: 7px;
+    border-radius: 5px;
+    background-color: rgb(233, 71, 12);
+    font-size: 0.8em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: justify;
+    }
+#targeta2{
+    min-height: 200px;
+    padding: 7px;
+    border-radius: 5px;
+    background-color: rgb(178, 199, 63);
+    font-size: 0.8em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: justify;
+    }
+    #targeta3{
+        min-height: 100%;
+        padding: 7px;
+        border-radius: 5px;
+        background-color: rgb(178, 199, 63);
+        font-size: 1.5em;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        text-align: justify;
+        }
